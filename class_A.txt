@@ -1,0 +1,3 @@
+cd HelloWorld1
+csc Hello1.cs
+Hello1
